@@ -5,7 +5,7 @@
 
 Neste projeto não foi desenvolvido o front-end do projeto. Ele já está pronto e foi disponibilizado. No entanto, note que o projeto não está escrito em React e sim no formato web tradicional. Para fazer ele funcionar em desenvolvimento, basta usar o Live Server.
 
-## Front-end Tweteroo
+
 
 ## Requisitos
 
