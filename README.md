@@ -1,7 +1,7 @@
 # Twetero-back-end
 # Tweteroo
 
-É um projeto que utiliza Java Spring Boot para criar uma API REST para um sistema de tweets, conhecido como _Tweetero_, um clone do Twitter.
+É um projeto que utiliza Java Script para criar uma API REST para um sistema de tweets, conhecido como _Tweetero_, um clone do Twitter.
 
 Neste projeto não foi desenvolvido o front-end do projeto. Ele já está pronto e foi disponibilizado. No entanto, note que o projeto não está escrito em React e sim no formato web tradicional. Para fazer ele funcionar em desenvolvimento, basta usar o Live Server.
 
